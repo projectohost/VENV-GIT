@@ -6,3 +6,4 @@
 FINAL: опублікувати (PUBLISH branch)
 
 # Конфігурація VENV
+
