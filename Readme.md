@@ -7,5 +7,7 @@ FINAL: опублікувати (PUBLISH branch)
 
 # Конфігурація VENV
 
-1) python -m venv .venv
-2) .venv\Scripts\activate.bat
+1) ```python -m venv .venv```
+2) ```.venv\Scripts\activate.bat```
+FINAL: install requirements
+``` pip install -r requirements.txt ```
