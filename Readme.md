@@ -7,3 +7,5 @@ FINAL: опублікувати (PUBLISH branch)
 
 # Конфігурація VENV
 
+1) python -m venv .venv
+2) .venv\Scripts\activate.bat
